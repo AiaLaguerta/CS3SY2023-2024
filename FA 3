@@ -2,6 +2,11 @@
 <html>
     <head>
          <title> Formative Assessment 3 </title>
+         <style> 
+                h1 {
+                
+                p {
+                text-align: center;
     </head>
     <body>
         <h1> Office Productivity </h1>
